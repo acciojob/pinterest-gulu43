@@ -2,10 +2,8 @@
 	display:flex;
 	justify-content:none;
 	align-items:none;
-	object-fit:cover;
 }
 #img{
-	object-fit:cover;
 	width: auto;
 	height:100%;
 }
